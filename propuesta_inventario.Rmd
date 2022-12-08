@@ -9,11 +9,24 @@ output: pdf_document
 
 **Origen de la solicitud**
 
-La solici
+La solicitud surge desde el administrador de los "Predios Centro Experimental Forestal" de la
+Universidad Austral de Chile, con el fin solicitar los siguientes servicios:
 
-## Objetivos del inventario
+* Realizar un diseño de inventario para un rodal de Pino radiata (*Pinus radiata*).
+* Ejecutar dicho inventario.
+* Generar una cartografía actualizada (límites y superficies).
+* Determinar la productividad de sitio y condición fitosanitaria.
+
+Antecedentes entregados a los consultores:
+
+* Especie: *Pinus radiata*.
+* Año de plantación: 2017.
+* Coordenadas (EPSG:32718):UTM-X: 656163 y UTM-Y: 5600314.
+* Nombre del predio: Fundo los Pinos.
 
 # Resultados esperados
+
+
 
 # Metodología
 
